@@ -1,4 +1,4 @@
-APE1-QMCluster-2022
+#  APE1-QMCluster-2022
 The model naming is as follows: the type of model (described below) followed by the QM optimized stationary point (RC, IC, PC, TS1, TS2, TS)
 
 
